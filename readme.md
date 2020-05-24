@@ -1,4 +1,6 @@
-Link to github: 
+Link to github: https://ryan13091.github.io/homework1
+
+
 1.The website is a Search Engine Optimization Firms homepage
 2. The website gives information to clients about the services offered
 3. The website is accessible with alt="" image tags to help users/browsers understand that most of the imgages are not pertinent to the content but are stock images.
