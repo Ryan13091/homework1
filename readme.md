@@ -2,7 +2,9 @@ Link to github: https://ryan13091.github.io/homework1
 
 
 1.The website is a Search Engine Optimization Firms homepage
+<br>
 2. The website gives information to clients about the services offered
+<br>
 3. The website is accessible with alt="" image tags to help users/browsers understand that most of the imgages are not pertinent to the content but are stock images.
 
 Here were the requirements and reasoning why each were coded the way they were:
